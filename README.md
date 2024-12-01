@@ -1,14 +1,23 @@
-# vue-expense-tracker
+# Expense Tracker Project
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple and interactive Expense Tracker application that helps manage your personal finances effectively. With this project, you can maintain a clear understanding of your financial activity and manage your budget better.
 
-## Recommended IDE Setup
+## Key Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. Add Transactions  
+   Record income or expenses with ease.
 
-## Customize configuration
+2. Delete Transactions  
+   Remove any transaction from the history.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+3. Transaction History  
+   View a complete list of all recorded transactions.
+
+4. Total Balance  
+   See your current financial balance at a glance.
+
+5. Expense Summary  
+   Track total expenses and income separately.
 
 ## Project Setup
 
